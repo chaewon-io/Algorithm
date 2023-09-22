@@ -7,7 +7,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 문제의 출처는 나동빈님에게 있으며, 교재를 공부하며 사고 과정 흐름과 문제 풀이를 기록하기 위함입니다.
 
-# **🔥 학습 기록**
+# **👈 학습 기록 '이론'**
 
 - 챕터 링크를 클릭하면, **기술 블로그에서 해당 주제의 이론과 문제 풀이**를 보실 수 있습니다.
 
@@ -21,6 +21,24 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | 4    | [CHAPTER 8]()   | - 다이나믹 프로그래밍 |
 | 5    | [CHAPTER 9]()   | - 최단 경로 |
 | 6    | [CHAPTER 10]()   | - 그래프 이론 |
+
+
+---
+
+# **👉 학습 기록 '기출문제'**
+
+- 챕터 링크를 클릭하면, **기술 블로그에서 해당 주제의 문제 풀이**를 보실 수 있습니다.
+
+| Week | 챕터                                                                                 | 주제 | 학습 여부 |
+|------|---------------------------------------------------------------------------------------| --- | --- |
+| 1    | [CHAPTER 11](https://velog.io/@chaewon22/이코테-그리디-기출-문제)   | - 그리디 알고리즘 | 🔥
+| 2    | [CHAPTER 12]()   | - 구현 |
+| 2    | [CHAPTER 13]()   | - DFS/BFS |
+| 3    | [CHAPTER 14]()   | - 정렬 |
+| 3    | [CHAPTER 15]()   | - 이진 탐색 |
+| 4    | [CHAPTER 16]()   | - 다이나믹 프로그래밍 |
+| 5    | [CHAPTER 17]()   | - 최단 경로 |
+| 6    | [CHAPTER 18]()   | - 그래프 이론 |
 
 
 ---
