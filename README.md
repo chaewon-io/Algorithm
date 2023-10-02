@@ -14,7 +14,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | Week | 챕터                                                                                 | 주제 | 학습 여부 |
 |------|---------------------------------------------------------------------------------------| --- | --- |
 | 1    | [CHAPTER 3](https://velog.io/@chaewon22/이코테-그리디-알고리즘)   | - 그리디 알고리즘 | ✅
-| 2    | [CHAPTER 4]()   | - 구현 |
+| 2    | [CHAPTER 4](https://velog.io/@chaewon22/이코테-구현-알고리즘-시뮬레이션과-완전-탐색)   | - 구현 | ✅
 | 2    | [CHAPTER 5]()   | - DFS/BFS |
 | 3    | [CHAPTER 6]()   | - 정렬 |
 | 3    | [CHAPTER 7]()   | - 이진 탐색 |
