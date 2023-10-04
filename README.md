@@ -11,6 +11,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 - 챕터 링크를 클릭하면, **기술 블로그에서 해당 주제의 이론과 문제 풀이**를 보실 수 있습니다.
 
+- 파이썬 기초 문법 : [이론 정리](https://velog.io/@chaewon22/파이썬-기초) -> 계속 업데이트 될 예정
+
 | Week | 챕터                                                                                 | 주제 | 학습 여부 |
 |------|---------------------------------------------------------------------------------------| --- | --- |
 | 1    | [CHAPTER 3](https://velog.io/@chaewon22/이코테-그리디-알고리즘)   | - 그리디 알고리즘 | ✅
