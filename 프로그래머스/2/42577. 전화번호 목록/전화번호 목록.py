@@ -1,8 +1,9 @@
 def solution(phone_book):
-	phone_book.sort()
+	phone_book_set = set(phone_book)
 	
-	for i in range(len(phone_book)-1):
-		if phone_book[i] == phone_book[i+1][:len(phone_book[i])]:
-			return False
-			
+	for num in phone_book:
+		for i in range(1, len(num)):
+			if num[:i] in phone_book_set:
+				return False
+				
 	return True
